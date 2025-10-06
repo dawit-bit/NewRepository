@@ -1,0 +1,97 @@
+Some notes on data science:
+
+Data science:
+
+is a multidisciplinary field that study large volumes of data to discern patterns
+and reveal insights that help organizations make strategic choices 
+
+Tools of data science:
+
+There are two major categories consisting of data and algorithms (models) 
+
+Data tools consist of data management tools: including such functions as store, 
+organize, and retrieve data
+    - data integration and transformation tools: streamline data pipelines and 
+      automate data processing work flows 
+    - data visualization tools: graphical representation of data and sharing 
+      insights 
+    - data asset management tools: organize and manage data, enforce access 
+      controls, ensure asset backups, version control etc.
+
+Model
+    - code development and execution tools: development, testing and execution 
+      environment
+    - model deployment, monitoring, and assessment tools
+    - code asset management tools, includes access control, versioning, 
+      collaboration ...      
+
+Python programming language -xics: A high-level general purpose programming 
+language
+
+
+Clear and easily readable syntax: 
+   has strict rules on indentation and accepts only one statement in a line. 
+   This characteristics of the language removes the need for separators, such 
+   as semicolon between lines or curly brackets between program blocks, and 
+   hence it can produces a more concise code      
+
+has large global community and a wealth of documentation 
+has a vast library of functions and methods
+   - For scientific computing it provides libraries such as Pandas, NumPy,
+     SciPy, and MatPlotLib	
+   - For AI, it has libraries like TensorFlow, Keras, and SciKit-Learn 
+open source and hence available free of charge 
+
+
+
+Note: 
+
+Python and R are two languages that are widely used in data analysis. While
+Python is a general purpose language R is a statistical programming language.
+There is software hat can be executed from Micro Soft command line, but also 
+there are integrated development environments for the R language, the one 
+most commonly used in data science is R studio         
+
+
+Jupyter Notebooks
+
+Jupyter Notebooks are used for interactive data analysis, scientific computing, 
+and creating executable documents by combining code, text, and visualizations. 
+They are ideal for rapid prototyping, teaching, and developing data-driven 
+projects because they allow users to run code in small chunks, immediately 
+see the results, and integrate explanatory text, making the entire process 
+both interactive and shareable. 
+
+Primary uses of Jupyter Notebooks:
+
+Data Analysis & Visualization: Users can analyze large datasets and generate 
+visual outputs like graphs and plots directly within the notebook. 
+Executable Documentation: Notebooks allow you to combine explanatory text 
+(using Markdown) with code, so others can follow your thought process, see 
+how an algorithm works, and even reproduce your results. 
+
+Rapid Prototyping: You can quickly test and iterate on small pieces of 
+code without re-executing the entire program, which is especially useful 
+for complex or slow operations. 
+
+Education & Tutorials: The ability to explain concepts with text and show 
+results in between code blocks makes notebooks an excellent tool for 
+teaching programming and data science. 
+
+Research & Exploration: Scientists and researchers can use notebooks to 
+explore data, conduct experiments, and present their findings in a clear, 
+integrated format. 
+
+Sharing Work: Notebooks can be easily shared via platforms like GitHub, 
+allowing others to view, run, and even modify your code and analyses. 
+
+Integrated Development: For data scientists, notebooks serve as a "data 
+scientist dev tool" to build parts of more complex applications by 
+developing, testing, and refining code before moving it to 
+production-ready scripts. 
+
+
+Jupiter provides access to Python and R programming languages, scripted 
+form ...
+
+The most widely used online distributor of Jupyter is Anaconda. 
